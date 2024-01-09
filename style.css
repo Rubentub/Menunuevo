@@ -41,11 +41,78 @@
     font: small-caps 100/200 serif;
 }
 .contenido1{
-    
-}
+  border: thin solid black;
+  width: 160px;
+  height: 60px;
+  border-color: blue;
+  margin: 0 15px 0;
+  text-align: center;
+  position: relative;
+  left: 50px;
+  }
 .contenido2{
-    
+  border: thin solid black;
+  width: 160px;
+  height: 60px;
+  border-color: blue;
+  margin: 0 15px 0;
+  text-align: center;
+  position: relative;
+  top: 50px;
+  left: 50px;
 }
 .contenido3{
-    
+  border: thin solid black;
+  width: 160px;
+  height: 60px;
+  border-color: blue;
+  margin: 0 15px 0;
+  text-align: center;
+  position: relative;
+  left: 300px;
+  bottom: 120px;
+}
+.contenido4{
+  border: thin solid black;
+  width: 160px;
+  height: 60px;
+  border-color: blue;
+  margin: 0 15px 0;
+  text-align: center;
+  position: relative;
+  left: 300px;
+  bottom: 70px;
+}
+.contenido5 {
+  border: thin solid black;
+  width: 160px;
+  height: 60px;
+  border-color: blue;
+  margin: 0 15px 0;
+  text-align: center;
+  position: relative;
+  left: 575px;
+  bottom: 240px;
+}
+.contenido6 {
+  border: thin solid black;
+  width: 160px;
+  height: 60px;
+  border-color: blue;
+  margin: 0 15px 0;
+  text-align: center;
+  position: relative;
+  left: 575px;
+  bottom: 190px;
+}
+.contenido7 {
+  border: thin solid black;
+  width: 180px;
+  height: 200px;
+  border-color: blue;
+  margin: 0 15px 0;
+  text-align: center;
+  position: relative;
+  left: 850px;
+  bottom: 360px;
 }
